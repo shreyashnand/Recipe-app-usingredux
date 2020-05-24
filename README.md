@@ -1,6 +1,6 @@
 # recipeApp-redux
 
-Live at (app)[http://k96white.github.io/recipeApp-redux]
+Live at [app](http://k96white.github.io/recipeApp-redux)
 
 A recipe finder app made using Redux concepts of store, reducer and action. Do comment if you find some errors in file.
 
