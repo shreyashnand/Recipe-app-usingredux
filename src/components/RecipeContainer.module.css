@@ -1,0 +1,17 @@
+.searchBar {
+  width: 50%;
+  padding: 10px;
+}
+
+.searchButton {
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-left: 5px;
+  color: white;
+}
+.searchButton:hover {
+  cursor: pointer;
+  background-color: lightsalmon;
+}
