@@ -1,7 +1,7 @@
 # recipeApp-redux
 A recipe finder app made using Redux concepts of store, reducer and action. Do comment if you find some errors in file.
 
-# Project live @ https://k96white.github.io/recipeApp-redux/
+# Project
 
 # Steps to run this app locally:
 *clone the link using cmd or gitbash.
